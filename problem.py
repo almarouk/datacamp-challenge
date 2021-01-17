@@ -21,7 +21,7 @@ class F1Weighted(ClassifierBaseScoreType):
         
         
 problem_title = 'Exploring Racism and Sexism in Social Media'
-_target_column_name = 'Annotation'
+_target_column_name = 'target'
 _prediction_label_names = [0, 1,2]
 # A type (class) which will be used to create wrapper objects for y_pred
 Predictions = rw.prediction_types.make_multiclass(
