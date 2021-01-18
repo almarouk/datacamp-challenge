@@ -5,6 +5,7 @@ wordcloud
 matplotlib
 seaborn 
 sentence_transformers
-umap
+umap-learn
 xgboost
 sklearn
+gensim
