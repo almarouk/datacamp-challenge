@@ -1,5 +1,6 @@
 from sentence_transformers import SentenceTransformer
 from sklearn.linear_model import LogisticRegression
+from sklearn.base import BaseEstimator
 import pandas
 
 class CustomClassifier(BaseEstimator):
