@@ -11,3 +11,4 @@ seaborn
 sentence_transformers import SentenceTransformer
 umap
 xgboost
+sklearn
