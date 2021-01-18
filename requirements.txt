@@ -1,14 +1,10 @@
 numpy
 pandas 
-re
-json 
-string
-SpellChecker
 spacy
 wordcloud 
 matplotlib
 seaborn 
-sentence_transformers import SentenceTransformer
+sentence_transformers
 umap
 xgboost
 sklearn
